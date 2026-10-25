@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://averixdigital.github.io/</loc>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://averixdigital.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://averixdigital.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://averixdigital.github.io/" />
+  </url>
+  <url>
+    <loc>https://averixdigital.github.io/en/</loc>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://averixdigital.github.io/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://averixdigital.github.io/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://averixdigital.github.io/" />
+  </url>
+  <url>
+    <loc>https://averixdigital.github.io/family-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://averixdigital.github.io/family-pro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://averixdigital.github.io/en/family-pro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://averixdigital.github.io/family-pro/" />
+  </url>
+  <url>
+    <loc>https://averixdigital.github.io/en/family-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://averixdigital.github.io/family-pro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://averixdigital.github.io/en/family-pro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://averixdigital.github.io/family-pro/" />
+  </url>
+  <url>
+    <loc>https://averixdigital.github.io/personal-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://averixdigital.github.io/personal-pro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://averixdigital.github.io/en/personal-pro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://averixdigital.github.io/personal-pro/" />
+  </url>
+  <url>
+    <loc>https://averixdigital.github.io/en/personal-pro/</loc>
+    <xhtml:link rel="alternate" hreflang="bn-BD" href="https://averixdigital.github.io/personal-pro/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://averixdigital.github.io/en/personal-pro/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://averixdigital.github.io/personal-pro/" />
+  </url>
+</urlset>

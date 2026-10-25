@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://averixdigital.github.io/sitemap.xml
 
-# Run .\prepare-seo.ps1 -SiteOrigin "https://your-deployment-host" before publishing.
-# The script generates the absolute Sitemap directive and sitemap.xml.
